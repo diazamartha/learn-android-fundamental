@@ -8,3 +8,6 @@ It cover basic concept in android such as:
 * Navigation
 * Background Thread and Networking
 * Android Architecture
+* Testing
+* Local Data Persistent
+* Background Task & Scheduler
