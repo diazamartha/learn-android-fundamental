@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favorite_button"
+        android:icon="@drawable/ic_favorite_red"
+        app:showAsAction="always"
+        android:title="favorite user" />
+
+    <item
+        android:id="@+id/setting_button"
+        android:icon="@drawable/ic_setting"
+        android:title="setting dark mode"
+        app:showAsAction="always"/>
+</menu>
